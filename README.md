@@ -1,7 +1,7 @@
 # like_zhihu
 ## 环境
 * Python3
-* MySQL
+* MySQL：需要在config.py配置文件中将数据库的密码修改成自己的
 
 ## 使用方法
 使用manager.py对数据库进行初始化、迁移和升级
